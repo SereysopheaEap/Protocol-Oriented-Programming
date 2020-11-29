@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+    <pages>
+        <page name='POP with associated type'/>
+        <page name='POP with default implementation'/>
+        <page name='POP with conditional extensions'/>
+        <page name='POP with ambiguous method Implementation'/>
+        <page name='POP with new methods'/>
+        <page name='POP - Extension vs Polymorphism'/>
+    </pages>
+</playground>
